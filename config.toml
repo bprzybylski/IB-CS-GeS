@@ -1,0 +1,15 @@
+baseURL = "https://bprzybylski.github.io/IB-CS-GeS/"
+title = "IB Computer Science @ Gaudium et Studium"
+theme = "hugo-book"
+copyright = "Bartłomiej Przybylski"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+    [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  BookToC = false
+  BookSection = '*'
+  BookSearch = false
+  BookComments = false
