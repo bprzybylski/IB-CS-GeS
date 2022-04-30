@@ -1,0 +1,15 @@
+{
+  "name": "IB Computer Science @ Gaudium et Studium",
+  "short_name": "IB Computer Science @ Gaudium et Studium",
+  "start_url": "/IB-CS-GeS/",
+  "scope": "/IB-CS-GeS/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/IB-CS-GeS/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
