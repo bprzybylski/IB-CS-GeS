@@ -27,6 +27,12 @@ When it comes to Topics 1-4, most of the questions overlap between the SL and HL
 The maximum number of marks you can get for Paper 1 depends on the chosen level (70 or 100). Your Paper 1 score translates into 40-45% of your final grade, see [grade boundaries]({{< ref "/general-information/grade-boundaries" >}}).
 {{< /hint >}}
 
+## Evaluation sheet
+
+I have prepared an Excel spreadsheet that may help you estimate your Paper 1 results. The estimation is based on your own assessment of how well you have learned the syllabus material. You can download the sheet using the button below.
+
+{{< button href="EA_P1_Evaluation_sheet.xlsx" >}}Download the evaluation sheet{{< /button >}}
+
 ## Topics vs. marks
 
 I spent some time going through all the past papers, and analyzed whether there is any regular (more or less) distribution of marks among the topics. It seems that there is --- see the summary below.
