@@ -5,6 +5,20 @@ weight: -4
 
 # Grade boundaries
 
+{{< hint info >}}
+**Fun fact**  
+The boundaries for each of the subjects are different. For example, these are the lower boundaries for the grade of 7 during the May 2019 session:
+
+| Subject          | SL | HL |
+| ---------------- | -- | -- |
+| Computer science | 72 | 69 |
+| Chemistry (TZ1)  | 78 | 79 |
+| Physics (TZ1)    | 65 | 67 |
+| Biology (TZ1)    | 79 | 78 |
+| Economics (TZ1)  | 75 | 71 |
+| English B        | 87 | 87 |
+{{< /hint >}}
+
 ## Standard level (SL)
 
 {{< hint info >}}
@@ -23,20 +37,6 @@ where
 
 {{< hint warning >}}
 Paper 2 was removed from the May 2021 session due to the COVID-19 pandemic. For this reason, Paper 1 had a weight of 70 (instead of 45).
-{{< /hint >}}
-
-{{< hint info >}}
-**Fun fact**  
-The boundaries for each of the subjects are different. For example, these are the lower boundaries for the grade of 7 during the May 2019 session:
-
-| Subject          | SL | HL |
-| ---------------- | -- | -- |
-| Computer science | 72 | 69 |
-| Chemistry (TZ1)  | 78 | 79 |
-| Physics (TZ1)    | 65 | 67 |
-| Biology (TZ1)    | 79 | 78 |
-| Economics (TZ1)  | 75 | 71 |
-| English B        | 87 | 87 |
 {{< /hint >}}
 
 {{< tabs "GB-SL-2014-2019" >}}
