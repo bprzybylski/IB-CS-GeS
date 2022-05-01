@@ -1,5 +1,5 @@
 ---
-title: Paper 3
+title: Paper 3 (HL only)
 ---
 
 # External Assessment --- Paper 3

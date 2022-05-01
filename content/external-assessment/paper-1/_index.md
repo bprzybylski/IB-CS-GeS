@@ -4,7 +4,32 @@ title: Paper 1
 
 # External Assessment --- Paper 1
 
-## Topics vs. points
+Paper 1 is a core part of the External Assessment. It covers four to seven topics, based on the chosen level. 
+
+**Standard level** and **Higher level**:
+
+* Topic 1: System fundamentals
+* Topic 2: Computer organization
+* Topic 3: Networks
+* Topic 4: Computational thinking, problem-solving and programming
+
+**Higher level** only:
+
+* Topic 5: Abstract data structures
+* Topic 6: Resource management
+* Topic 7: Control
+
+{{< hint info >}}
+When it comes to Topics 1-4, most of the questions overlap between the SL and HL variants of Paper 1.
+{{< /hint >}}
+
+{{< hint danger >}}
+Your Paper 1 score translates into 40-45% of your final grade, see [grade boundaries]({{< ref "/general-information/grade-boundaries" >}}).
+{{< /hint >}}
+
+## Topics vs. marks
+
+The maximum number of marks you can get for your Paper 1 depends on the chosen level (70 or 100). I spent some time going through all the past papers, and analyzed whether there is any regular (more or less) distribution of marks among the topics. It seems that there is --- see the summary below.
 
 ### Standard level
 
@@ -23,7 +48,7 @@ title: Paper 1
 | May 2021 |       7 |       8 |      20 |      35 |
 
 {{< hint warning >}}
-The data in the table above is not official. I spent one of my evenings going through all the questions, but I might have missed something. If you are bored enough to recheck my estimations and thus you do so, let me know.
+The data in the table above is not official.
 {{< /hint >}}
 {{< /tab >}}
 
@@ -50,7 +75,7 @@ The data in the table above is not official. I spent one of my evenings going th
 | May 2021 |       7 |       4 |      19 |      31 |      20 |      11 |       8 |
 
 {{< hint warning >}}
-The data in the table above is not official. I spent one of my evenings going through all the questions, but I might have missed something. If you are bored enough to recheck my estimations and thus you do so, let me know.
+The data in the table above is not official.
 {{< /hint >}}
 {{< /tab >}}
 
@@ -62,6 +87,12 @@ The data in the table above is not official. I spent one of my evenings going th
 {{< /tabs >}}
 
 ## Grade boundaries
+
+Computer science course has a variety of assessment components. Paper 1 is marked using a markscheme and assigned a numerical mark by the external examiner. Grade boundaries are then applied to determine the overall grade on the 1-7 scale for this component.
+
+{{< hint info >}}
+These boundaries have no impact on your final grade. However, they may be used to estimate the difficulty of the component.
+{{< /hint >}}
 
 ### Standard Level
 
