@@ -5,9 +5,7 @@ weight: -4
 
 # Grade boundaries
 
-{{< hint info >}}
-**Fun fact**  
-The boundaries for each of the subjects are different. For example, these are the lower boundaries for the grade of 7 during the May 2019 session:
+The boundaries for each of the subjects change every year. These are the example grade 7 boundaries for the May 2019 session:
 
 | Subject          | SL | HL |
 | ---------------- | -- | -- |
@@ -17,6 +15,10 @@ The boundaries for each of the subjects are different. For example, these are th
 | Biology (TZ1)    | 79 | 78 |
 | Economics (TZ1)  | 75 | 71 |
 | English B        | 87 | 87 |
+
+{{< hint info >}}
+**Fun fact**  
+In May 2019, the lowest grade 7 boundary was observed for Physics SL (65), and the highest for Danish B HL (90).
 {{< /hint >}}
 
 ## Standard level (SL)
@@ -26,13 +28,16 @@ The boundaries for each of the subjects are different. For example, these are th
 You can calculate your final result using the following formula:  
 
 {{< katex display  >}}
-\text{[Result]} = 45\cdot\frac{\text{[P1]}}{70} + 25\cdot\frac{\text{[P2]}}{45} + 30\cdot\frac{\text{[IA]} + \text{[G4P]}}{40}
+45\cdot\frac{\text{[P1]}}{70} + 25\cdot\frac{\text{[P2]}}{45} + 30\cdot\frac{\text{[IA]}}{34}
 {{< /katex >}}
 where
-* [P1] is the number of points you got for Paper 1 (max 70)
-* [P2] is the number of points you got for Paper 2 (max 45)
-* [IA] is the number of points you got for the solution of the Internal Assessment (max 34)
-* [G4P] is the number of points you got for the Group 4 Project (max 6)
+* [P1] is the number of marks you got for Paper 1 (max 70)
+* [P2] is the number of marks you got for Paper 2 (max 45)
+* [IA] is the number of marks you got for the solution of the Internal Assessment (max 34)
+{{< /hint >}}
+
+{{< hint warning >}}
+Before May 2016, the maximum number of marks for the Internal Assessment was 40. This is because the Group 4 Project was evaluated and marked up to 6 additional points.
 {{< /hint >}}
 
 {{< hint warning >}}
@@ -73,14 +78,17 @@ If your exam session was in May 2019 and you got between 62 and 71 points, you f
 You can calculate your final result using the following formula:  
 
 {{< katex display  >}}
-\text{[Result]} = 40\cdot\frac{\text{[P1]}}{100} + 20\cdot\frac{\text{[P2]}}{65} + 20\cdot\frac{\text{[P3]}}{30} + 20\cdot\frac{\text{[IA]} + \text{[G4P]}}{40}
+40\cdot\frac{\text{[P1]}}{100} + 20\cdot\frac{\text{[P2]}}{65} + 20\cdot\frac{\text{[P3]}}{30} + 20\cdot\frac{\text{[IA]}}{34}
 {{< /katex >}}
 where
 * [P1] is the number of points you got for Paper 1 (max 100)
 * [P2] is the number of points you got for Paper 2 (max 65)
 * [P2] is the number of points you got for Paper 3 (max 30)
 * [IA] is the number of points you got for the solution of the Internal Assessment (max 34)
-* [G4P] is the number of points you got for the Group 4 Project (max 6)
+{{< /hint >}}
+
+{{< hint warning >}}
+Before May 2016, the maximum number of marks for the Internal Assessment was 40. This is because the Group 4 Project was evaluated and marked up to 6 additional points.
 {{< /hint >}}
 
 {{< hint warning >}}

@@ -4,7 +4,28 @@ title: Paper 2
 
 # External Assessment --- Paper 2
 
+Paper 2 covers four options, but the student answers the questions related only to one of them. The option is chosen by the teacher.
+
+* Option A: Databases
+* Option B: Modelling and simulation
+* Option C: Web science
+* Option D: Object-oriented programming (OOP)
+
+{{< hint info >}}
+When it comes to options, most of the questions overlap between the SL and HL variants of Paper 2.
+{{< /hint >}}
+
+{{< hint danger >}}
+The maximum number of marks you can get for Paper 2 depends on the chosen level (45 or 65). Your Paper 2 score translates into 20-25% of your final grade, see [grade boundaries]({{< ref "/general-information/grade-boundaries" >}}).
+{{< /hint >}}
+
 ## Grade boundaries
+
+Computer science course has a variety of assessment components. Paper 2 is marked using markschemes and assigned a numerical mark by the external examiner. Grade boundaries are then applied to determine the overall grade on the 1-7 scale for this component.
+
+{{< hint info >}}
+These boundaries have no impact on your final grade. However, they may be used to estimate the difficulty of the component.
+{{< /hint >}}
 
 ### Standard Level
 

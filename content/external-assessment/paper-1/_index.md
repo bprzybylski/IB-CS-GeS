@@ -24,12 +24,12 @@ When it comes to Topics 1-4, most of the questions overlap between the SL and HL
 {{< /hint >}}
 
 {{< hint danger >}}
-Your Paper 1 score translates into 40-45% of your final grade, see [grade boundaries]({{< ref "/general-information/grade-boundaries" >}}).
+The maximum number of marks you can get for Paper 1 depends on the chosen level (70 or 100). Your Paper 1 score translates into 40-45% of your final grade, see [grade boundaries]({{< ref "/general-information/grade-boundaries" >}}).
 {{< /hint >}}
 
 ## Topics vs. marks
 
-The maximum number of marks you can get for your Paper 1 depends on the chosen level (70 or 100). I spent some time going through all the past papers, and analyzed whether there is any regular (more or less) distribution of marks among the topics. It seems that there is --- see the summary below.
+I spent some time going through all the past papers, and analyzed whether there is any regular (more or less) distribution of marks among the topics. It seems that there is --- see the summary below.
 
 ### Standard level
 
@@ -88,7 +88,7 @@ The data in the table above is not official.
 
 ## Grade boundaries
 
-Computer science course has a variety of assessment components. Paper 1 is marked using a markscheme and assigned a numerical mark by the external examiner. Grade boundaries are then applied to determine the overall grade on the 1-7 scale for this component.
+Computer science course has a variety of assessment components. Paper 1 is marked using markschemes and assigned a numerical mark by the external examiner. Grade boundaries are then applied to determine the overall grade on the 1-7 scale for this component.
 
 {{< hint info >}}
 These boundaries have no impact on your final grade. However, they may be used to estimate the difficulty of the component.
