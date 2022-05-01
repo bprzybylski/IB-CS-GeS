@@ -2,7 +2,7 @@
 title: Grade boundaries
 ---
 
-# Internal Assessment --- grade boundaries
+# Internal Assessment --- Grade boundaries
 
 {{< tabs "GB-IA-2014-2020" >}}
 

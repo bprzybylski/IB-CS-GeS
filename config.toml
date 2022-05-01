@@ -2,6 +2,7 @@ baseURL = "https://bprzybylski.github.io/IB-CS-GeS/"
 title = "IB Computer Science @ Gaudium et Studium"
 theme = "hugo-book"
 copyright = "Bartłomiej Przybylski"
+enableGitInfo = true
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -13,3 +14,4 @@ copyright = "Bartłomiej Przybylski"
   BookSection = '*'
   BookSearch = false
   BookComments = false
+  BookRepo = 'https://github.com/bprzybylski/IB-CS-GeS'
