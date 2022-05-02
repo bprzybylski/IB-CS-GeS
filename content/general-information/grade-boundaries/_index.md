@@ -81,10 +81,10 @@ You can calculate your final result using the following formula:
 40\cdot\frac{\text{[P1]}}{100} + 20\cdot\frac{\text{[P2]}}{65} + 20\cdot\frac{\text{[P3]}}{30} + 20\cdot\frac{\text{[IA]}}{34}
 {{< /katex >}}
 where
-* [P1] is the number of points you got for Paper 1 (max 100)
-* [P2] is the number of points you got for Paper 2 (max 65)
-* [P2] is the number of points you got for Paper 3 (max 30)
-* [IA] is the number of points you got for the solution of the Internal Assessment (max 34)
+* [P1] is the number of marks you got for Paper 1 (max 100)
+* [P2] is the number of marks you got for Paper 2 (max 65)
+* [P2] is the number of marks you got for Paper 3 (max 30)
+* [IA] is the number of marks you got for the solution of the Internal Assessment (max 34)
 {{< /hint >}}
 
 {{< hint warning >}}
