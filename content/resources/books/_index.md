@@ -8,6 +8,7 @@ title: Books
 
 | Cover | Reference |
 |-------|-----------|
+| ![](9781398318281.png) | David Watson, Helen Williams (2021). _Cambridge IGCSE™ and O Level Computer Science. Second edition_, Hodder Education \| ISBN: 9781398318281 \| [Buy online](https://www.amazon.pl/-/pl/dp/1398318280/) |
 | ![](9781108915144.jpeg) | Sarah Lawrey, Victoria Ellis (2021). _Computer Science for Cambridge IGCSE™ and O Level_, Cambridge University Press \| ISBN: 9781108915144 \| [Buy online](https://www.cambridge.org/pl/education/subject/computing/computer-science/cambridge-igcse-o-level-computer-science-2nd-edition/cambridge-igcse-and-o-level-computer-science-2nd-edition-coursebook-digital-access-2-years-digital-coursebook-2-years?isbn=9781108915144&format=DO) |
 | ![](9781108951562.jpeg) | Chris Roffey (2021). _Computer Science for Cambridge IGCSE™ and O Level. Programming book for Python_, Cambridge University Press \| ISBN: 9781108951562 \| [Buy online](https://www.cambridge.org/pl/education/subject/computing/computer-science/cambridge-igcse-o-level-computer-science-2nd-edition/cambridge-igcse-and-o-level-computer-science-2nd-edition-digital-programming-book-python-2-years-programming-book-python-digital-access-2-years?isbn=9781108951562&format=DO) |
 
