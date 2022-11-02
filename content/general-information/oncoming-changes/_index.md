@@ -30,7 +30,7 @@ The new computer science course also favors programming languages over pseudocod
 {{< /hint >}}
 
 ## The removal of the option topics
-Previous four to-choose topics, that is, `databases`, `modelling and simulation`, `web science`, `object-oriented programming` will no longer be available.
+Previous four to-choose-from topics, that is, `databases`, `modelling and simulation`, `web science`, `object-oriented programming` will no longer be available.
 {{< hint warning >}}
 Paper 2 now "focuses on applying theory and practice to real-world contexts, and includes a structured question framed by a given technology context".
 {{< /hint >}}
