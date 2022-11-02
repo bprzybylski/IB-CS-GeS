@@ -1,5 +1,5 @@
 ---
-title: "Oncoming Changes"
+title: "Oncoming changes"
 date: 2022-11-01T16:10:47+01:00
 ---
 
