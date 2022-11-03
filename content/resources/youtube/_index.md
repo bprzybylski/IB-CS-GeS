@@ -11,6 +11,7 @@ Some people find video materials more enganging and prefer to learn from them. T
 - [Computerphile](#computerphile)
 - [Ben Eater](#ben-eater)
 - [CrashCourse/computer science](#crashcoursecomputer-science)
+- [freeCodeCamp.org](#freecodecamporg)
 
 ## Computer science
 **Description:**
@@ -73,3 +74,18 @@ Although the channel may nicely introduce a viewer to a big picture in short tim
 **Topics:** `System fundamentals`, `Networks`, `Abstract data structures`, `Resource management`
 <br>
 **Options:** `Databases`, `Web science`
+
+## freeCodeCamp.org
+**Description:**
+[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/videos) focuses on learn-by-yourself content, however, it is useful in the context of IBDP. Explanation of much of the syllabus can be found here. Videos are prepared for both beginners and intermediate (those with some prior knowledge).
+
+{{< hint danger >}}
+Nonetheless, videos are very extensive and thus may be considered exhausting. Some clips last an hour, two or more. Is is hard to "distill" important information. Also, the quality of certain videos (in terms of the delivery of content) is questionable.
+{{< /hint >}}
+
+**Example video:**
+{{< youtube byHcYRpMgI4 >}}
+
+**Topics:** `Networks`, `Computational thinking`, `Abstract data structures`, `Resource management`
+<br>
+**Options:** `Databases`, `Modelling and simulation`, `Web science`, `OOP`
