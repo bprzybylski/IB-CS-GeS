@@ -10,6 +10,7 @@ Some people find video materials more enganging and prefer to learn from them. T
 - [Computer science](#computer-science)
 - [Computerphile](#computerphile)
 - [Ben Eater](#ben-eater)
+- [CrashCourse/computer science](#crashcoursecomputer-science)
 
 ## Computer science
 **Description:**
@@ -57,3 +58,18 @@ As mentioned, this channel is very hardware-oriented so there's slim to none of 
 **Topics:** `Computer organization`, `Networks`, `Resource management`, `Control`
 <br>
 **Options:** -
+
+## CrashCourse/computer science
+**Description:**
+[CrashCourse](https://www.youtube.com/c/crashcourse) is a "general-purpose" channel with the variety of courses on different subjects. Of interest here, however, is the **[computer science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** playlist. This playlist features brief and coherent videos on computer science. It serves as a good, in-a-nutshell intro to computer science. Besides, the graphics are magnificent!
+
+{{< hint danger >}}
+Although the channel may nicely introduce a viewer to a big picture in short time, it does not cover the material in a sufficient way. Thus, this should be facilitated other resources.
+{{< /hint >}}
+
+**Example video:**
+{{< youtube DuDz6B4cqVc >}}
+
+**Topics:** `System fundamentals`, `Networks`, `Abstract data structures`, `Resource management`
+<br>
+**Options:** `Databases`, `Web science`
