@@ -15,8 +15,10 @@ Some people find video materials more enganging and prefer to learn from them. T
 **Description:**
 Literally [_Computer science_](https://www.youtube.com/c/ComputerScienceLessons/videos) is focused on explaining theoretical concepts as well as providing some practical tutorials. The topic of each video is very specific, coherent, and cohesive. Furthermore, I beliece that the knowledge presented is almost identical to knowledge required by IB.
 
-**Possible flaw:**
+{{< hint danger >}}
 The only disadvantage I can think of is that it doesn't cover `Modelling and simulation` option.
+{{< /hint >}}
+
 
 **Example video:**
 {{< youtube AcqtAEzuoj0 >}}
@@ -29,8 +31,9 @@ The only disadvantage I can think of is that it doesn't cover `Modelling and sim
 **Description:**
 [_Computerphile_](https://www.youtube.com/user/Computerphile/videos) is a very well-known and extremely comprehensive channel. The explanation is always clear and undoubtedly facilitates the understanding of a viewer. If there's a big topic, it is broken into easly consumable pieces in form of playlists.
 
-**Possible flaws:**
+{{< hint danger >}}
 However, the explanation is so in-depth it may be overwhelming for some people. Also, contary to the previous channel, it is not possible to choose a specific topic/concept from the syllabus, add "computerphile" and get the exact explanation. **To understand the topic, is it necessary to watch the whole video.**
+{{< /hint >}}
 
 **Example video:**
 {{< youtube UvI-AMAtrvE >}}
@@ -44,8 +47,9 @@ However, the explanation is so in-depth it may be overwhelming for some people. 
 **Description:**
 [_Ben Eater_](https://www.youtube.com/c/BenEater) is rather a hardware-oriented channel. The inner working of a computer is covered in full: from electricity, trough bites and processor, to making one's own GPU. Nevertheless, low-level technologies such as assembly and C are also discussed. Admittedly, it is done in respect to the computer (how it interpretes machine code etc.), but still it is.
 
-**Possible flaws:**
+{{< hint danger >}}
 As mentioned, this channel is very hardware-oriented so there's slim to none of e.g. computational thinking. Furthermore, most of the content is so thorough, it is far beyond the scope of IBDP.
+{{< /hint >}}
 
 **Example video:**
 {{< youtube DlEa8kd7n3Q >}}
