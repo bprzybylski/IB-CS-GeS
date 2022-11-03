@@ -38,3 +38,18 @@ However, the explanation is so in-depth it may be overwhelming for some people. 
 **Topics:** `System fundamentals`, `Computer organization`, `Networks`, `Computational thinking`, `Abstract data structures`, `Resource management`, `Control`
 <br>
 **Options:** `Databases`, `Modelling and simulation`, `Web science`, `OOP`
+
+
+## Ben Eater
+**Description:**
+[_Ben Eater_](https://www.youtube.com/c/BenEater) is rather a hardware-oriented channel. The inner working of a computer is covered in full: from electricity, trough bites and processor, to making one's own GPU. Nevertheless, low-level technologies such as assembly and C are also discussed. Admittedly, it is done in respect to the computer (how it interpretes machine code etc.), but still it is.
+
+**Possible flaws:**
+As mentioned, this channel is very hardware-oriented so there's slim to none of e.g. computational thinking. Furthermore, most of the content is so thorough, it is far beyond the scope of IBDP.
+
+**Example video:**
+{{< youtube DlEa8kd7n3Q >}}
+
+**Topics:** `Computer organization`, `Networks`, `Resource management`, `Control`
+<br>
+**Options:** -
