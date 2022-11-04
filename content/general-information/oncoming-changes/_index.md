@@ -47,4 +47,4 @@ Paper 3 will be removed, starting from February 2023.
 Although for some interesting, Paper 3 was tough and students along with their techear complained about it. The difficulty of Paper 3 can be inferred from the [grade boundaries](/IB-CS-GeS/external-assessment/paper-3/).
 
 ## Closing thoughts
-I have touched upon the new curriculum. Indeed, there are some other aspects that may have been discussed - inluding new word limit for IA (3,000) - I admit that. However, I beleive I outlined the most important parts of the new computer science course so that you have a good overview of what will change.
+I have touched upon the new curriculum. Indeed, there are some other aspects that may have been discussed - inluding new word limit for IA (3,000) - I admit that. However, I believe I outlined the most important parts of the new computer science course so that you have a good overview of what will change.
