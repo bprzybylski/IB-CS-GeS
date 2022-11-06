@@ -63,7 +63,7 @@ As mentioned, this channel is very hardware-oriented so there's slim to none of 
 
 ## CrashCourse/computer science
 **Description:**
-[CrashCourse](https://www.youtube.com/c/crashcourse) is a "general-purpose" channel with the variety of courses on different subjects. Of interest here, however, is the **[computer science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** playlist. This playlist features brief and coherent videos on computer science. It serves as a good, in-a-nutshell intro to computer science. Besides, the graphics are magnificent!
+[_CrashCourse_](https://www.youtube.com/c/crashcourse) is a "general-purpose" channel with the variety of courses on different subjects. Of interest here, however, is the **[computer science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** playlist. This playlist features brief and coherent videos on computer science. It serves as a good, in-a-nutshell intro to computer science. Besides, the graphics are magnificent!
 
 {{< hint danger >}}
 Although the channel may nicely introduce a viewer to a big picture in short time, it does not cover the material in a sufficient way. Thus, this should be facilitated with other resources.
@@ -78,7 +78,7 @@ Although the channel may nicely introduce a viewer to a big picture in short tim
 
 ## freeCodeCamp.org
 **Description:**
-[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/videos) focuses on learn-by-yourself content, however, it is useful in the context of IBDP. Explanation of much of the syllabus can be found here. Videos are prepared for both beginners and intermediate (those with prior knowledge).
+[_freeCodeCamp.org_](https://www.youtube.com/c/Freecodecamp/videos) focuses on learn-by-yourself content, however, it is useful in the context of IBDP. Explanation of much of the syllabus can be found here. Videos are prepared for both beginners and intermediate (those with prior knowledge).
 
 {{< hint danger >}}
 Nonetheless, videos are very extensive and thus may be considered exhausting. Some clips last an hour, two or more. Is is hard to "distill" important information. Also, the quality of certain videos (in terms of the delivery of content) is questionable.
@@ -93,7 +93,7 @@ Nonetheless, videos are very extensive and thus may be considered exhausting. So
 
 ## ArjanCodes
 **Description:**
-[ArjanCodes](https://www.youtube.com/c/ArjanCodes) is dedicated to programming and software design. One can find there very useful resources concerning design principles (tips, common mistakes etc.), refactorization, python libraries and much more. This channel may prove particularly crucial while writing IA from CS, especially for design overview, development and extensibility of product.
+[_ArjanCodes_](https://www.youtube.com/c/ArjanCodes) is dedicated to programming and software design. One can find there very useful resources concerning design principles (tips, common mistakes etc.), refactorization, python libraries and much more. This channel may prove particularly crucial while writing IA from CS, especially for design overview, development and extensibility of product.
 
 {{< hint danger >}}
 The usefulness of ArjanCodes is limited to IA and programming in general. What's more, code examples are provided only in Python; there's no Java whatsoever.
