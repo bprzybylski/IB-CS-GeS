@@ -39,7 +39,7 @@ However, OOP will be incorporated into syllabus as **the basis**, while database
 
 What is also worth noticing is the introduction of the new study areas - `security` and `system vulnerabilities`.
 
-## Godbay Paper 3!
+## Goodbay Paper 3!
 {{< hint info >}}
 Paper 3 will be removed, starting from February 2023.
 {{< /hint >}}
