@@ -4,7 +4,7 @@ date: 2022-11-01T16:10:47+01:00
 ---
 
 # Oncoming changes
-As of February 2023, the new DP computer science course will be launched. It introduces substantial changes compared to the current curriculum.
+~~As of February 2023~~ (Recently, IB coordinators have received a note from the organization that new syllabus will be delayed, but we don't for how long), the new DP computer science course will be launched. It introduces substantial changes compared to the current curriculum.
 
 | Type of assessment | Format of assessment | SL | HL | 
 | -------- | -- | -- | -- | 
