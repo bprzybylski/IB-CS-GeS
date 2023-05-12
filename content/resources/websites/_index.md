@@ -11,6 +11,7 @@ Sharing knowledge is a weirdly fullfilling exercise that appeals many people. Th
 - [Wikibooks/Computer Science](#wikibookscomputer-science)
 - [Mr. Wachs' Classes…](#mr-wachs-classes)
 - [GeeksForGeeks](#geeksforgeeks)
+- [cs-ib](#cs-ib)
 
 ## IB ComSci Hub
 **Description:** [IB ComSci Hub](https://ib.compscihub.net) is entirely dedicated to IBDP Computer Science course and is very popular among IBDP community. You can find there not only the overview of the course, but also useful materials for studying topics, options and tips for Extended Essay in CS. You should definately chech it out!
@@ -59,3 +60,15 @@ It is not structured whatsoever. Besides, I couldn't embed it :c
 
 **Topics:** `System fundamentals`, `Computer organization`, `Networks`, `Computational thinking`, `Abstract data structures`, `Resource management`, `Control` \
 **Options:** `Databases`, `Modelling and Simulation`, `OOP`, `Web Science`
+
+## cs-ib
+**Description:** [cs-ib](https://www.cs-ib.net) is an open-source project (like the website you're on) to which you can contribute to by forking [this GitHub repository](https://github.com/mwmg/cs-ib/tree/main). Although it is not extensive in scope, it does an excellent job at explaining material it includes. If you have chosen the Web science option or want to start with open-source, it's a place worth visiting.
+
+{{< hint danger >}}
+As mentioned, I covers only Topics 1, 5, 6, and 7 as well as the Web science option.
+{{< /hint >}}
+
+<embed src="https://www.cs-ib.net" style="width:1000px; height: 400px;">
+
+**Topics:** `System fundamentals`, `Abstract data structures`, `Resource management`, `Control` \
+**Options:** `Web Science`
