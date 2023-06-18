@@ -6,7 +6,9 @@ title: Paper 3 (HL only)
 
 Paper 3 asks a number of questions related to a pre-released _case study_.
 
-Here is [the case study for the May 2023 session](https://computersciencewiki.org/images/b/bc/2023_case_study.pdf)
+Here is [the case study for use in May and November 2024](https://computersciencewiki.org/images/2/26/D_4_comsc_css_2305_1_e.pdf)
+
+Case studies from [other years](https://computersciencewiki.org/index.php/2023_case_study).
 
 {{< hint warning >}}
 The case study for the May 2024 session has not been yet published.
