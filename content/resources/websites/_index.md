@@ -6,12 +6,13 @@ date: 2023-03-04T13:44:31+01:00
 # Websites
 Sharing knowledge is a weirdly fullfilling exercise that appeals many people. These people creates invaluable content that helps other to learn even the most difficult material. Therefore, we are happy to gather all such content in one convenient place.
 
-# Conent overview:
+## Conent overview:
 - [IB ComSci Hub](#ib-comsci-hub)
 - [Wikibooks/Computer Science](#wikibookscomputer-science)
 - [Mr. Wachs' Classes…](#mr-wachs-classes)
 - [GeeksForGeeks](#geeksforgeeks)
 - [cs-ib](#cs-ib)
+- [Paul Baumgarten](#paul-baumgarten)
 
 ## IB ComSci Hub
 **Description:** [IB ComSci Hub](https://ib.compscihub.net) is entirely dedicated to IBDP Computer Science course and is very popular among IBDP community. You can find there not only the overview of the course, but also useful materials for studying topics, options and tips for Extended Essay in CS. You should definately chech it out!
@@ -72,3 +73,15 @@ As mentioned, I covers only Topics 1, 5, 6, and 7 as well as the Web science opt
 
 **Topics:** `System fundamentals`, `Abstract data structures`, `Resource management`, `Control` \
 **Options:** `Web Science`
+
+## Paul Baumgarten
+**Description:** [Paul Baumgarten](https://pbaumgarten.com) is a Computer Science teacher at Sha Tin College who runs a blog dedicated to his interest - Computer Science. Since he teaches, among others, in [International Baccalaureate Diploma Programme](https://pbaumgarten.com/ib-compsci/), we can find a thorough break down of the Computer Science IBDP course along with Computer Science EE tips on his website. I recommend visitng [his GitHub](https://github.com/paulbaumgarten) as well.
+
+{{< hint danger >}}
+The latest case study discussed dates back to 2022 and the only option covered is OOP.
+{{< /hint >}}
+
+<embed src="https://pbaumgarten.com/ib-compsci/" style="width:1000px; height: 400px;">
+
+**Topics:** `System fundamentals`, `Computer organization`, `Networks`, `Computational thinking`, `Abstract data structures`, `Resource management`, `Control` \
+**Options:** `OOP`
