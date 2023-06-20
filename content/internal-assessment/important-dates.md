@@ -1,6 +1,7 @@
 ---
 title: Important dates
 weight: -5
+draft: true
 ---
 
 # Important dates
