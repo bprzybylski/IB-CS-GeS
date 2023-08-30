@@ -7,7 +7,7 @@ date: 2022-11-02T20:33:27+01:00
 Some people find video materials more enganging and prefer to learn from them. This page provides a list of worth-considering youtube channels.
 
 ## Content overview:
-- [The CS classroom]()
+- [The CS classroom](#the-cs-classroom)
 - [Computer science](#computer-science)
 - [Computerphile](#computerphile)
 - [Ben Eater](#ben-eater)
