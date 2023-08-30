@@ -7,12 +7,28 @@ date: 2022-11-02T20:33:27+01:00
 Some people find video materials more enganging and prefer to learn from them. This page provides a list of worth-considering youtube channels.
 
 ## Content overview:
+- [The CS classroom]()
 - [Computer science](#computer-science)
 - [Computerphile](#computerphile)
 - [Ben Eater](#ben-eater)
 - [CrashCourse/computer science](#crashcoursecomputer-science)
 - [freeCodeCamp.org](#freecodecamporg)
 - [ArjanCodes](#arjancodes)
+
+## The CS Classroom
+**Description:**
+[_The CS Classroom_](https://www.youtube.com/@TheCSClassroom/videos) is centered around teaching computer science in general, however, with a strong emphasis on the IBDP course. All topics and options (besides option B) are covered in comprehensive, long, but easy to follow videos - certainly a cool way to revise the material!
+
+{{< hint danger >}}
+The only disadvantage I can think of is that it doesn't cover `Modelling and simulation` option.
+{{< /hint >}}
+
+**Example video:**
+{{< youtube bmG2cakC4LE >}}
+
+**Topics:** `System fundamentals`, `Computer organization`, `Networks`, `Computational thinking`, `Abstract data structures`, `Resource management`, `Control`
+<br>
+**Options:** `Databases`, `Web science`, `OOP`
 
 ## Computer science
 **Description:**
