@@ -17,7 +17,7 @@ Some people find video materials more enganging and prefer to learn from them. T
 
 ## The CS Classroom
 **Description:**
-[_The CS Classroom_](https://www.youtube.com/@TheCSClassroom/videos) is centered around teaching computer science in general, however, with a strong emphasis on the IBDP course. All topics and options (besides option B) are covered in comprehensive, long, but easy to follow videos - certainly a cool way to revise the material!
+[_The CS Classroom_](https://www.youtube.com/@TheCSClassroom/videos) is centered around teaching computer science in general. However, there's a strong emphasis on the IBDP course. All topics and options (besides option B) are covered as comprehensive, long, but easy to follow videos - certainly a cool way to revise the material!
 
 {{< hint danger >}}
 The only disadvantage I can think of is that it doesn't cover `Modelling and simulation` option.
