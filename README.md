@@ -17,3 +17,5 @@ The website is divided into four sections:
 ## Contribute
 If you would like to contribute, just fork this repository, make some changes, and open pull request.
 Any contributions are welcomed!
+
+However, if you need some help with contributing (for instance, you're a beginner), I wrote an article explaining step-by-step how to do so. You can find it on [IBlieve blog](https://iblieve.org/elevating-ib-computer-science-a-resource-center-guide/). The article assumes you have some basic knowledge about git, Github, and VSCode, but if you don't (which I highly doubt since you're reading this), I also wrote two supplementary articles on my [personal blog](https://undemalum.github.io/portfolio/about/) for you to catch up ([here](https://undemalum.github.io/portfolio/posts/resource-center-environment-preparation/) and [here](https://undemalum.github.io/portfolio/posts/resource-center-publishing-changes/)).
