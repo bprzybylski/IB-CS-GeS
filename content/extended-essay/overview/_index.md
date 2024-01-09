@@ -1,7 +1,6 @@
 ---
 title: "Overview"
 weight: 1
-draft: true
 ---
 
 # Computer Science Extended Essay
@@ -20,19 +19,19 @@ The key to a successful CS EE lies in **selecting a good research topic**. But w
 
 Here are some criteria to guide you in identifying a strong research topic:
 
-- Ensure your topic is **technical**: Given that Computer Science is a technical course, focus on aspects that delve into the technicalities of the subject. Social issues related to ICT are more suited for the ITGS course.
+- Ensure your topic is `technical`: Given that Computer Science is a technical course, focus on aspects that delve into the technicalities of the subject. Social issues related to ICT are more suited for the ITGS course.
 
-- Ensure your topic is **specific** and **measurable**: Craft a research question with clear specificity and measurability. Avoid vague inquiries like "Will Windows or Linux give better performance?" Clarify the context, circumstances, and goals to achieve precision. Remember the 4,000-word limit.
+- Ensure your topic is `specific` and `measurable`: Craft a research question with clear specificity and measurability. Avoid vague inquiries like "Will Windows or Linux give better performance?" Clarify the context, circumstances, and goals to achieve precision. Remember the 4,000-word limit.
 
-- Avoid **speculative** topics: avoid questions about uncertain future developments, such as "Will quantum computing replace normal binary computers?" Analysis of trends and advances is possible, but should demonstrate technical knowledge without relying on speculation.
+- Avoid `speculative` topics: Avoid questions about uncertain future developments, such as "Will quantum computing replace normal binary computers?" Analysis of trends and advances is possible, but should demonstrate technical knowledge without relying on speculation.
 
-- Steer clear of **historical** and **ethics/social implications** focus: While historical context or ethical considerations can be included, the primary focus should be on scientific analysis. Avoid turning the essay into a history dissertation; maintain a scientific approach.
+- Steer clear of `historical` and `ethical/social implications` focus: While historical context or ethical considerations can be included, the primary focus should be on scientific analysis. Avoid turning the essay into a history dissertation; maintain a scientific approach.
 
-- Ensure your topic allows for **primary research**: Conduct original research instead of relying solely on existing statistics or summarizing views. Analyze your findings and consider their implications to fulfill the research requirements.
+- Ensure your topic allows for `primary research`: Conduct original research instead of relying solely on existing statistics or summarizing views. Analyze your findings and consider their implications to fulfill the research requirements.
 
-- Avoid a **computer science project** or software project focus: Save projects like desktop applications or online services for the IA. While data for analysis can be generated from a student-written program, the focus should be on relevant techniques rather than the code's development.
+- Avoid a `computer science project` focus: Save projects like desktop applications or online services for the IA. While data for analysis can be generated from a student-written program, the focus should be on relevant techniques rather than the code's development.
 
-- Ensure your topic is **feasible**: Choose a topic that is manageable with available resources. Avoid investigating complex computing topics for which you lack access to appropriate background material or resources.
+- Ensure your topic is `feasible`: Choose a topic that is manageable with available resources. Avoid investigating complex computing topics for which you lack access to appropriate background material or resources.
 
 
 To give yourself a better sense of the differences between good and bad topics, look at the table below:
@@ -48,9 +47,22 @@ To give yourself a better sense of the differences between good and bad topics, 
 
 </div>
 
-(Good topics are taken from the [CS EE World](https://cseeworld.wixsite.com/home))
+("Good topics" are taken from the [CS EE World](https://cseeworld.wixsite.com/home) where you can also look for examplary essays)
 
 ## Topics suggestions
+The subject-specific guide mentions that you can explore various areas, including hardware and software development, algorithm efficiency for data transmission or encryption, network systems, and computer control systems.
 
-There are many possible areas to be explored, each with a wealth of topics: advances in hardware and software development, comparison of the efficiency of algorithms designed to speed up data transmission or to encrypt data, network systems, computer control systems and so on.
+{{< hint warning >}}
+You can also draw inspiration from the syllabus or Paper 3 case studies, provided you delve into those topics more deeply in your exploration. You can find the CS guide [here](http://ib.compscihub.net/wp-content/uploads/2015/04/IBCompSciGuide.pdf) and case studies [here](https://computersciencewiki.org/index.php/2023_case_study).
+{{< /hint >}}
 
+However, given the current hype for **Artificial Intelligence**, you and many other students might be tempted to choose this area for your research.
+
+### AI Topics
+[Paul Baumgarten](https://pbaumgarten.com/ib-compsci/extended-essay.md) has compiled a helpful list of terms [here](https://pbaumgarten.com/ib-compsci/extended-essay.md) that might guide you in choosing the direction for your research. He also emphasizes that, given the popularity of this area among students, it's crucial to ensure that your work **stands out**.
+
+He suggests considering a "cliché" Research Question, which involves evaluating how two things solve a similar problem. However, a more common yet effective approach to meet the EE's requirements and secure a good mark is **testing a specific model on a chosen dataset**.
+
+For further inspiration, you can explore the multitude of available [models](https://huggingface.co/models) and [datasets](https://huggingface.co/datasets) on the [Hugging Face](https://huggingface.co/huggingface) library website. They also offer [courses](https://huggingface.co/learn).
+
+Additionally, you can find more ideas on the [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas) project. Remember to keep the word limit in mind!
