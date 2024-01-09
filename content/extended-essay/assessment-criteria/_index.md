@@ -5,9 +5,17 @@ draft: true
 ---
 
 # Assessment Criteria
-With your Extended Essay, you can earn a maximum of 34 points, which are scattered across 5 different criteria that assess different components of your work:
+With your Extended Essay, you can earn a maximum of 34 points, distributed across five different criteria that assess various components of your work:
 
 | Criterion A: Focus and method | Criterion B: Knowledge and understanding | Criterion C: Critical thinking | Criterion D: Presentation | Criterion E: Engagement |
+| - | - | - | - | - |
+| - Topic<br>- Research question<br>- Methodology | - Context<br>- Subject-specific terminology and concepts |  - Research<br>- Analysis<br>- Discussion and evaluation | - Structure<br>- Layout | - Process<br>- Research focus |
+| Marks | Marks | Marks | Marks | Marks |
+| 6 | 6 | 12 | 4 | 6|
+
+{{< hint danger >}}
+This section focuses on how specific criteria are tailored toward Computer Science. For a more general and in-depth overview refer to the [Extended Essay Guide](https://isob.ukw.edu.pl/wp-content/uploads/2018/04/extended-essay-guide-first-exams-2018.pdf).
+{{< /hint >}}
 
 ## Criterion A: Focus and method
 (Strands: Topic, Research question, Methodology)
