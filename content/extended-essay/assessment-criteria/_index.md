@@ -14,65 +14,66 @@ With your Extended Essay, you can earn a maximum of 34 points, distributed acros
 | 6 | 6 | 12 | 4 | 6|
 
 {{< hint danger >}}
-This section focuses on how specific criteria are tailored toward Computer Science. For a more general and in-depth overview refer to the [Extended Essay Guide](https://isob.ukw.edu.pl/wp-content/uploads/2018/04/extended-essay-guide-first-exams-2018.pdf).
+This section focuses on how to master specific criteria and is tailored toward Computer Science. For a more general and in-depth overview refer to the [Extended Essay Guide](https://isob.ukw.edu.pl/wp-content/uploads/2018/04/extended-essay-guide-first-exams-2018.pdf).
 {{< /hint >}}
 
 ## Criterion A: Focus and method
-(Strands: Topic, Research question, Methodology)
-The title should clearly indicate the area of research, with the underlying computer science forming the
-principle basis of the essay.
-Students should avoid topics that deal primarily with social aspects of information technology that would
-lie more within the subject ITGS (eg “The value of friendships attained through social networking sites”).
-The research question must be sharply focused in order to allow for significant research into the topic at
-an appropriate depth. At the same time the topic must be accessible to an IB student.
-Broad topics (eg “To what extent is the variety of different computer languages in existence beneficial or
-problematic for programmers”) will only lead to superficial treatment within the 4,000-word limit.
-Students should avoid choosing futuristic topics (eg “AI/robots in the next century“), which generally lead
-to opinion-based essays that are backed up with few facts. A journalistic approach should also be avoided
-as this will tend to lead to a superficial treatment of any computer science.
-The research question must be in the form of a question and should be stated in the introduction to the
-essay, and the areas investigated must be clearly placed in context. For example, an essay such as “How
-useful are neural networks in the evolution of machine learning?” must provide for the reader sufficient
-background information into both neural networks and machine learning.
-The student must further explain why the topic and research question are worthy choices for an EE.
-The methodology candidates will use to answer this question should be clearly described.
-The essay must be well planned, making use of a variety of authoritative sources. These can be taken from
-the internet, literature and interviews with experts in the relevant field.
-Many essays will involve an experimental or programming element, with the resulting data providing a
-valuable source. Students should avoid relying on small-scale surveys taken from fellow students.
+**Strands**: `Topic`, `Research question`, `Methodology`
+
+- **Clear Title Focus:**
+  - Title should prominently feature the computer science aspect of the research.
+
+- **Avoid ITGS, Broad, and Futuristic Topics:**
+  - Ensure your topic aligns with computer science rather than leaning towards social aspects suited for ITGS. 
+  - Be cautious of selecting overly broad topics that may lead to a superficial treatment within the word limit.
+  - Steer clear of speculative or futuristic topics that often result in opinion-based essays lacking substantial factual support.
+
+- **Sharp and Accessible Research Question:**
+  - Ensure a well-focused research question that allows for in-depth exploration within the 4,000-word limit and is suitable for an IB student's understanding. 
+  - *Clearly state the research question as a question in the introduction*, providing context for the areas investigated.
+
+- **Justification for Topic:**
+  - Explain why the chosen topic and research question are suitable and significant for an Extended Essay. Provide sufficient background information related to the chosen topic.
+
+- **Transparent Methodology:**
+  - Clearly describe the methodology to be employed in answering the research question. 
+  - Consider incorporating experimental or programming elements with valuable data sources, avoiding reliance on small-scale surveys from fellow students.
+
+- **Well-Planned Essay:**
+  - Ensure a well-structured and planned essay that draws from authoritative sources, including internet, literature, and expert interviews.
 
 
 ## Criterion B: Knowledge and understanding
-(Strands: Context, Subject-specific terminology and concepts)
-The student must demonstrate their own understanding of the topic into which the essay falls.
-An essay that is comprised primarily of reworded source material will not provide this evidence. Instead
-the student should provide clarifications or simpler explanations of any technical information that is taken
-from their sources, always linking this information to the original research question.
-The source material should be selected and incorporated in a way that illustrates the knowledge gained
-by the student in relation to the chosen topic.
-7
-The language must be at a technical level that is appropriate to computer science, but used in such a way
-that clearly demonstrates the student’s own understanding. Students should beware of making their
-essays over-technical and should remember that the reader will not necessarily be an expert in the specific
-topic that is being addressed.
+**Strands**: `Context`, `Subject-specific terminology` and `concepts`
+
+- **Demonstrate Personal Understanding:**
+  - Showcase your comprehension of the chosen topic, avoiding reliance on reworded source material.
+  - Provide clarifications or simplified explanations of technical information, always linking it back to the original research question.
+
+- **Strategic Use of Source Material:**
+  - Select and incorporate source material to illustrate the knowledge you gained in relation to the chosen topic.
+
+- **Technical Language Appropriateness:**
+  - Employ a technical language suitable for computer science, ensuring clarity that reflects the student's understanding.
+  - *Avoid excessive technicality, considering that the reader may not be an expert in the specific addressed topic*.
 
 ## Criterion C: Critical thinking
 (Strands: Research, Analysis and Discussion and evaluation)
-The development of an argument that flows logically from one section to the next throughout the essay is
-only arrived at through sound planning.
-The student must carefully select information that is directly relevant to the research question and resist
-any temptation to make use of too many sources.
-The student needs to evaluate the research material not just in terms of what is relevant and necessary
-to support the main argument, but also in terms of the validity of the sources. This particularly applies to
-sources taken from the internet.
-The student should attempt to draw out conclusions wherever appropriate and not just in the concluding
-section of the essay.
-Any analysis of tables of results or of graphs should go further than simply translating the results into
-words but should look to explain the underlying reasons for the obtained results.
-Final conclusions should do more than summarize the essay but should draw the various threads together
-in presenting a justified answer to the original research question. The student should indicate where
-future research could be undertaken in order to explore unanswered questions or in expanding the
-original scope of the essay.
+
+- **Logical Argument Development:**
+  - Develop a logically flowing argument throughout the essay through careful planning.
+
+- **Selective and Critical Use of Information:**
+  - Select information directly relevant to the research question, avoiding an excessive number of sources.
+  - Evaluate the relevance, necessity, and validity of sources, especially those from the internet.
+
+- **Thorough Analysis and Conclusions:**
+  - Draw conclusions throughout the essay, not solely in the concluding section.
+  - Analyze tables and graphs, going beyond translation to explain the underlying reasons for the obtained results.
+
+- **Comprehensive Final Conclusions:**
+  - Final conclusions should extend beyond summarizing, presenting a justified answer to the original research question.
+  - Indicate potential areas for future research to explore unanswered questions or expand the essay's original scope.
 
 ## Criterion D: Presentation
 (Strands: Structure, Layout)
