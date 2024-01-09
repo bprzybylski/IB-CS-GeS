@@ -7,7 +7,7 @@ draft: true
 # Computer Science Extended Essay
 {{< hint warning >}}
 **Note on the sources used**  
-The information provided in this and other sections of the Extended Essay is largely derived from two sources: [Paul Baumgarten's website](https://pbaumgarten.com/ib-compsci/extended-essay.md) and the [subject-specific Extended Essay Computer Science guide](https://ib.compscihub.net/wp-content/uploads/2016/07/EE-for-CS-guidance-2016.pdf). While I strive to incorporate the most crucial info from these sources and offer additional perspectives, I encourage you to visit these references for a better understanding.
+The information provided in this and other sections of the Extended Essay is largely derived from two sources: [Paul Baumgarten's website](https://pbaumgarten.com/ib-compsci/extended-essay.md) and the [subject-specific Extended Essay Computer Science guide](https://ib.compscihub.net/wp-content/uploads/2016/07/EE-for-CS-guidance-2016.pdf). While I strive to incorporate the most crucial info from these sources and offer additional perspectives, I strongly encourage you to visit these references for a better understanding.
 {{< /hint >}}
 
 The Extended Essay (EE) in Computer Science (CS) is an independent **research** project where students conduct **experiments** to explore the vast realm of computing and its implications for the world. The work has a maximum length of 4,000 words, with an additional 500 words allocated for reflections, known as the Reflections on Planning and Progress Form (RPPF). (Further details on RPPF can be found [here](https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/rppf-completing-en.pdf), and you can refer to the format [here](http://schools.wrdsb.ca/chc/files/2014/05/100-RPPF_e.pdf)).
@@ -35,12 +35,22 @@ Here are some criteria to guide you in identifying a strong research topic:
 - Ensure your topic is **feasible**: Choose a topic that is manageable with available resources. Avoid investigating complex computing topics for which you lack access to appropriate background material or resources.
 
 
-To give a better understanding of the differences between good and bad topics look at the table below:
+To give yourself a better sense of the differences between good and bad topics, look at the table below:
+
+<div style="display: flex; 
+            justify-content: center;">
 
 | Good topics | Bad Topics |
 | ----------- | ---------- |
 | The impact of Kernel Page Table Isolation on<br> performance in intel cpu-powered systems | Factors that affect processor speeds |
 | Investigating the algorithmic efficiency of<br>Binary Search Tree and Binary Heap based<br>sorting algorithms | The future of sorting algorithms |
+| The impact of contemporary quantum<br>computing solutions on the security of RSA<br>as a public key cryptography solution | Internet Security |
 
+</div>
+
+(Good topics are taken from the [CS EE World](https://cseeworld.wixsite.com/home))
 
 ## Topics suggestions
+
+There are many possible areas to be explored, each with a wealth of topics: advances in hardware and software development, comparison of the efficiency of algorithms designed to speed up data transmission or to encrypt data, network systems, computer control systems and so on.
+
