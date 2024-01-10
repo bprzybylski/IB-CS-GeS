@@ -44,7 +44,7 @@ This section focuses on how to master specific criteria and is tailored toward C
 
 
 ## Criterion B: Knowledge and understanding
-**Strands**: `Context`, `Subject-specific terminology` and `concepts`
+**Strands**: `Context`, `Subject-specific terminology and concepts`
 
 - **Demonstrate Personal Understanding:**
   - Showcase your comprehension of the chosen topic, avoiding reliance on reworded source material.
@@ -58,85 +58,70 @@ This section focuses on how to master specific criteria and is tailored toward C
   - *Avoid excessive technicality, considering that the reader may not be an expert in the specific addressed topic*.
 
 ## Criterion C: Critical thinking
-(Strands: Research, Analysis and Discussion and evaluation)
+**Strands**: `Research`, `Analysis` and `Discussion and evaluation`
 
 - **Logical Argument Development:**
-  - Develop a logically flowing argument throughout the essay through careful planning.
+  - Develop a logically flowing argument throughout the essay.
 
 - **Selective and Critical Use of Information:**
-  - Select information directly relevant to the research question, avoiding an excessive number of sources.
-  - Evaluate the relevance, necessity, and validity of sources, especially those from the internet.
+  - *Select information directly relevant to the research question*, avoiding an excessive number of sources.
+  - Evaluate the relevance, necessity, and validity of sources.
 
 - **Thorough Analysis and Conclusions:**
   - Draw conclusions throughout the essay, not solely in the concluding section.
   - Analyze tables and graphs, going beyond translation to explain the underlying reasons for the obtained results.
 
 - **Comprehensive Final Conclusions:**
-  - Final conclusions should extend beyond summarizing, presenting a justified answer to the original research question.
+  - *Final conclusions should extend beyond summarizing*, presenting a justified answer to the original research question.
   - Indicate potential areas for future research to explore unanswered questions or expand the essay's original scope.
 
 ## Criterion D: Presentation
-(Strands: Structure, Layout)
-This criterion relates to the extent to which the essay conforms to accepted academic standards in relation
-to how research papers should be presented. It also relates to how well these elements support the
-reading, understanding and evaluation of the essay.
-Students may provide a section and sub-section structure to their essays, with appropriate informative
-headings.
-Use of charts, images and tables
-Any charts, images or tables from literature sources included in the essay must be carefully selected
-and labelled. They should only be used if they are directly relevant to the research question, contribute
-towards the understanding of the argument and are of a good graphic quality.
-8
-Large tables of raw data collected by the student are best included in an appendix, where they should be
-carefully labelled. Tables of processed data should be designed to clearly display the information in the
-most appropriate form. Graphs or charts drawn from the analysed data should be selected to highlight
-only the most pertinent aspects related to the argument. Too many graphs, charts and tables will distract
-from the overall quality of the communication.
-Only processed data that is central to the argument of the essay should be included in the body of the
-essay, as close as possible to its first reference. Tables should enhance a written explanation, but not
-themselves include significant bodies of text. If they do, then these words must be included in the word
-count.
-If an experimental method is long and complex, students may place the raw data in an appendix
-and include a summary of the methods in the body of the essay. Students who choose this option
-must be careful to ensure that the summary contains all elements that contribute to the quality of the
-investigation, since appendices are not an essential section of the EE and examiners are not required to
-read them. In other words, any important information that contributes to the evaluation of the method
-must be in the body of the essay and not the appendix. For experiments where numerical results are
-calculated from data obtained by changing one of the variables, it is generally good practice to show one
-example of the calculation in the main body of the essay. The remainder can be displayed in tabular or
-graphical form.
-Any material that is not original must be carefully acknowledged, with specific attention paid to the
-acknowledgment and referencing of quotes and ideas. This acknowledgment and referencing is
-applicable to audio-visual material, text, graphs and data published in print and electronic sources. If
-the referencing does not meet the minimum standard as indicated in the guide (name of author, date of
-publication, title of source and page numbers as applicable), and is not consistently applied, work will be
-considered as a case of possible academic misconduct.
-A bibliography is essential and has to be presented in a standard format. Title page, table of contents,
-page numbers, etc must contribute to the quality of presentation.
-The essay must not exceed 4,000 words of narrative. Graphs, figures, calculations, diagrams, formulas
-and equations are not included in the word count. Students must be aware that examiners will not read
-beyond the 4,000-word limit, nor assess any material presented thereafter.
+**Strands**: `Structure`, `Layout`
+
+- **Use of Charts, Images, and Tables:**
+  - Carefully select and label charts, images, and tables from literature sources.
+  - Include large tables of raw data you collected in the appendix, carefully labeled.
+  - Design tables of processed data to clearly display relevant information in the most appropriate form.
+  - Limit the use of graphs, charts, and tables to enhance the written explanation without overwhelming the communication.
+
+- **Acknowledgment and Referencing:**
+  - *Acknowledge and reference any non-original material*, including audio-visual material, text, graphs, and data.
+  - Follow proper referencing standards, including the name of the author, date of publication, title of the source, and page numbers.
+
+- **Bibliography, Structure, and Presentation:**
+  - Include a bibliography in a standard format.
+  - Ensure the title page, table of contents, and page numbers contribute to the overall quality of presentation.
+  - Follow accepted academic standards for research paper presentation.
+  - Consider using a section and sub-section structure with informative headings.
+
+- **Word Limit and Exclusions:**
+  - *Keep the essay narrative within the 4,000-word limit*.
+  - Note that graphs, figures, calculations, diagrams, formulas, and equations *are not included in the word count*.
+  - *Examiners will not read beyond the 4,000-word limit*, and no assessment will be made on material presented thereafter.
 
 ## Criterion E: Engagement
-(Strands: Reflections on planning and progress)
-This criterion assesses the student’s engagement with their research focus and the research process. It
-will be applied by the examiner at the end of the assessment of the essay, after considering the student’s
-Reflections on planning and progress Form (RPPF).
-9
-Students are expected to provide reflections on the decision-making and planning process undertaken
-in completing the essay. Students must demonstrate how they arrived at a topic as well as the methods
-and approach used. This criterion assesses the extent to which a student has evidenced the rationale for
-decisions made throughout the planning process and the skills and understandings developed.
-For example, students may reflect on:
-• the approach and strategies they chose, and their relative success
-• the Approaches to learning skills they have developed and their effect on the student as a learner
-• how their conceptual understandings have developed or changed as a result of their research
-• setbacks they faced in their research and how they overcame these
-• questions that emerged as a result of their research
-• what they would do differently if they were to undertake the research again.
-Effective reflection highlights the journey the student has engaged in through the EE process. Students
-must show evidence of critical and reflective thinking that goes beyond simply describing the procedures
-that have been followed.
-The reflections must provide the examiner with an insight into student thinking, creativity and originality
-within the research process. The student voice must be clearly present and demonstrate the learning that
-has taken place.
+**Strands**: `Reflections on planning and progress`
+
+- **Reflection on Decision-Making and Planning:**
+  - Reflect on how the student arrived at the chosen topic.
+  - Explore the methods and approach used in completing the essay.
+  - Assess the rationale for decisions made throughout the planning process.
+
+- **Assessment Criteria:**
+  - Evaluate the extent to which the student demonstrates the rationale for decisions.
+  - Examine the development of skills and understandings through reflection.
+  - Consider critical and reflective thinking beyond procedural descriptions.
+
+- **Specific Reflection Areas:**
+  - Reflect on the success of the chosen approach and strategies.
+  - Assess the impact of Approaches to Learning skills on the student as a learner.
+  - Discuss how conceptual understandings have developed or changed due to research.
+  - Explore setbacks faced in research and how they were overcome.
+  - Reflect on questions that emerged as a result of the research.
+  - Consider what the student would do differently if undertaking the research again.
+
+- **Effective Reflection:**
+  - Highlight the journey the student has engaged in through the Extended Essay (EE) process.
+  - Show evidence of critical and reflective thinking that goes beyond procedural descriptions.
+  - Provide insight into student thinking, creativity, and originality in the research process.
+  - Ensure the student's voice is clearly present and demonstrates the learning that has taken place.
