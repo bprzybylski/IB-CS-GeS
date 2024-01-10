@@ -102,26 +102,19 @@ This section focuses on how to master specific criteria and is tailored toward C
 ## Criterion E: Engagement
 **Strands**: `Reflections on planning and progress`
 
-- **Reflection on Decision-Making and Planning:**
-  - Reflect on how the student arrived at the chosen topic.
-  - Explore the methods and approach used in completing the essay.
-  - Assess the rationale for decisions made throughout the planning process.
+{{< hint danger >}}
+The assessment of this criterion is based on the [RPPF](https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/rppf-completing-en.pdf), which you complete **after** submitting your Extended Essay.
+{{< /hint >}}
 
-- **Assessment Criteria:**
-  - Evaluate the extent to which the student demonstrates the rationale for decisions.
-  - Examine the development of skills and understandings through reflection.
-  - Consider critical and reflective thinking beyond procedural descriptions.
+- **Decision-Making and Planning:**
+  - Reflect on how you arrived at the chosen topic.
+  - Explore the methods and approach you used in completing the essay.
+  - Assess the rationale for decisions you made throughout the planning process.
+  - Provide insight into your thinking, creativity, and originality in the research process.
 
-- **Specific Reflection Areas:**
-  - Reflect on the success of the chosen approach and strategies.
-  - Assess the impact of Approaches to Learning skills on the student as a learner.
-  - Discuss how conceptual understandings have developed or changed due to research.
-  - Explore setbacks faced in research and how they were overcome.
+- **Critical and Effective Reflection:**
+  - *Show evidence of critical and reflective thinking that goes beyond procedural descriptions*.
+  - Explore setbacks you faced in research and how you overcame them.
   - Reflect on questions that emerged as a result of the research.
-  - Consider what the student would do differently if undertaking the research again.
-
-- **Effective Reflection:**
-  - Highlight the journey the student has engaged in through the Extended Essay (EE) process.
-  - Show evidence of critical and reflective thinking that goes beyond procedural descriptions.
-  - Provide insight into student thinking, creativity, and originality in the research process.
-  - Ensure the student's voice is clearly present and demonstrates the learning that has taken place.
+  - Consider what you would do differently if undertaking the research again.
+  - Ensure your voice is clearly present and demonstrates the learning that has taken place.
