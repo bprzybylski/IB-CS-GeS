@@ -15,6 +15,11 @@ CS EE is known for its **technical complexity**, and it's relatively uncommon, t
 
 The key to a successful CS EE lies in **selecting a good research topic**. But what makes a topic good?
 
+## Content overview:
+- [Choosing a Topic](#choosing-a-topic)
+- [Topic Suggestions](#topic-suggestions)
+    - [AI Topics](#ai-topics)
+
 ## Choosing a Topic
 
 Here are some criteria to guide you in identifying a strong research topic:
@@ -49,7 +54,7 @@ To give yourself a better sense of the differences between good and bad topics, 
 
 ("Good topics" are taken from the [CS EE World](https://cseeworld.wixsite.com/home) where you can also look for examplary essays)
 
-## Topics suggestions
+## Topic Suggestions
 The subject-specific guide mentions that you can explore various areas, including hardware and software development, algorithm efficiency for data transmission or encryption, network systems, and computer control systems.
 
 {{< hint warning >}}
@@ -61,7 +66,9 @@ However, given the current hype for **Artificial Intelligence**, you and many ot
 ### AI Topics
 [Paul Baumgarten](https://pbaumgarten.com/ib-compsci/extended-essay.md) has compiled a helpful list of terms [here](https://pbaumgarten.com/ib-compsci/extended-essay.md) that might guide you in choosing the direction for your research. He also emphasizes that, given the popularity of this area among students, it's crucial to ensure that your work **stands out**.
 
+{{< hint info >}}
 He suggests considering a "cliché" Research Question, which involves evaluating how two things solve a similar problem. However, a more common yet effective approach to meet the EE's requirements and secure a good mark is **testing a specific model on a chosen dataset**.
+{{< /hint >}}
 
 For further inspiration, you can explore the multitude of available [models](https://huggingface.co/models) and [datasets](https://huggingface.co/datasets) on the [Hugging Face](https://huggingface.co/huggingface) library website. They also offer [courses](https://huggingface.co/learn).
 
