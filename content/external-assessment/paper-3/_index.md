@@ -10,10 +10,6 @@ Here is [the case study for use in May and November 2024](https://computerscienc
 
 Case studies from [other years](https://computersciencewiki.org/index.php/2023_case_study).
 
-{{< hint warning >}}
-The case study for the May 2024 session has not been yet published.
-{{< /hint >}}
-
 {{< hint danger >}}
 The maximum number of marks you can get for Paper 3 is 30. Your Paper 3 score translates into 20% of your final HL grade, see [grade boundaries]({{< ref "/general-information/grade-boundaries" >}}).
 {{< /hint >}}
